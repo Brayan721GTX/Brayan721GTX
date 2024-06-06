@@ -16,7 +16,7 @@ I'm also a music producer passionate about making music.
 - 🔭 I’m currently working on a flutter app with AI services.
 - 🌱 Learning more about **AI**.
 
-##Making music
+## Making music
 
 ### 🎛️ Skills and Tools:
 - DAWs: LLMS, FL Studio
